@@ -52,7 +52,6 @@ I enjoy experimenting with different technologies and building projects that are
 
 - Full-Stack Web Applications
 - Flutter Mobile Applications
-- REST APIs & Backend Systems
 - Database-driven Applications
 - Firebase Applications
 - AI / ML Experiments
@@ -66,8 +65,7 @@ I enjoy experimenting with different technologies and building projects that are
 - UI / UX
 - Graphic Design
 - Video Editing
-- Motion Graphics
-- Adobe Creative Suite
+- Adobe Creative Cloud
 - Content Creation
 
 </td>
